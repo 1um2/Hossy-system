@@ -1,0 +1,1 @@
+Precisa instalar discord.py antes de executar o codigo
